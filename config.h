@@ -7,7 +7,8 @@
  */
 static char *font = "Iosevka:pixelsize=14:antialias=true:autohint=true";
 static char *font2[] = {
-	"Noto Color Emoji:pixelsize=12:antialias=true:autohint=true"
+	"Noto Color Emoji:pixelsize=12:antialias=true:autohint=true",
+	"fontawesome:size=12"
 };
 static int borderpx = 2;
 
